@@ -3,6 +3,7 @@
 
 Stable Applications to download videos and music to your computer.
 
-Downloader (full) and Playlist URL Finder included.
+#### Patch Note 1.0:
 
-Currently working on Downloader (lite)
+- Downloader (full) and Playlist URL Finder included.
+- Currently working on Downloader (lite).
