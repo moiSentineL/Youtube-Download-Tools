@@ -3,6 +3,11 @@
 
 Stable Applications to download videos and music from Youtube to your computer.
 
+#### Patch Notes 2.1:
+
+- Added Playlist Downloader. Now you dont have to use a .txt file to download Playlists. Bulk Video Downloader still added in package.
+- Minor Bug fixes
+
 #### How To Use:
 
 - Downloader:
