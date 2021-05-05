@@ -1,5 +1,10 @@
 ## Changelog
 
+#### Patch Notes 2.1.1:
+
+- Added default download directory. People now don't need to put a directory to download.
+- (For URLFinder) Default directory set to current directory.
+- 
 #### Patch Notes 2.1:
 
 - Added Playlist Downloader. Now you dont have to use a .txt file to download Playlists. Bulk Video Downloader still added in package.
