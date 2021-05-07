@@ -15,7 +15,7 @@ Stable Applications to download videos and music from Youtube to your computer.
   Using the downloader is pretty simple.
   You just have to choose between things and input.
   
-  ![image](https://user-images.githubusercontent.com/68242099/113394724-5daecd80-93b6-11eb-9390-4d6de851cefa.png)
+  ![image](https://user-images.githubusercontent.com/68242099/117474670-c91d2980-af78-11eb-8701-c52e3ec76c0c.png)
   **UI Screenshot**
   
   You can either choose to download one video at a time or you can download videos in bulk.
@@ -25,7 +25,7 @@ Stable Applications to download videos and music from Youtube to your computer.
   Using the URL Finder is easy as eating.
   You just have to enter the playlist link and it would create a .txt file containing the links in a format which you can use with Downloader.
   
-  ![image](https://user-images.githubusercontent.com/68242099/113395060-eb8ab880-93b6-11eb-9dff-cd40c0c2bc9e.png)
+  ![image](https://user-images.githubusercontent.com/68242099/117474713-d5a18200-af78-11eb-99bf-333a87fdea71.png)
   **UI Screenshot**
  
  #### How to Support:
